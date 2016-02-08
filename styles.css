@@ -1,0 +1,14 @@
+.container{ width:1000px; background:yellow; margin-left:auto; margin-right:auto; padding:10px; }
+body{ font-family:verdana; }
+h1,h2,h3{ color: #002b5a, margin-bottom: 42px; }
+h1{ font-size:42px; font-weight:200px; }
+h2{ font-size:40px; font-weight:200px; }
+h3{ font-size:15px; font-weight:normal }
+h1,h2,h3 > p { Color:#333, font-family:lato; font-size:18px; }
+body p{ color:#002b5a, margin-bottom: 5px; font-size:12px; padding: 5px;  }
+body h2{ font-size:20px; margin-bottom: 20px; }
+.product-title{ color:#002b5a, font-size:17px; }
+.starting-at{ color:#4987ca, font-size:13px; }
+.text{ font-size:13px; color:#666666; }
+.learn-more{font-size:13px; color:#666666;   }
+#list{list-style-type: none; }
