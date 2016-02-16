@@ -10,4 +10,4 @@ Autocomplete feature using JQuery autocomplete mechanism. It basically promts st
 
 Overall, it was fun project!
 
-JQuery Auto-complete mechansim is really awesome!
+JQuery Auto-complete mechanisam is really awesome!
